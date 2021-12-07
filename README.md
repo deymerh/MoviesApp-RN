@@ -1,0 +1,3 @@
+## Aplicación de peliculas en cartelera para IOS y Android - React Native
+
+# Puntualmente: Axios, Custom Hooks, Loadings, Promesas simultáneas @, Carousels entre otros...
